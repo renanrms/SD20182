@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/sd/Desktop/ULA_BCD/Simulacao_isim_beh.exe" -prj "/home/sd/Desktop/ULA_BCD/Simulacao_beh.prj" "work.Simulacao" 

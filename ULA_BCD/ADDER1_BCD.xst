@@ -1,0 +1,5 @@
+set -tmpdir "/home/sd/Desktop/ULA_BCD/xst/projnav.tmp"
+set -xsthdpdir "/home/sd/Desktop/ULA_BCD/xst"
+elaborate
+-ifn ADDER1_BCD.prj
+-ifmt mixed
